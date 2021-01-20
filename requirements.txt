@@ -1,0 +1,7 @@
+cffi==1.14.3
+kaitaistruct==0.8
+numpy==1.19.2
+pycparser==2.20
+scipy==1.5.2
+SoundFile==0.10.3.post1
+~                          
